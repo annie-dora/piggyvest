@@ -1,0 +1,149 @@
+
+body{
+    background-color: #ADD8E6;
+}
+/* .nav-bar{
+    display: flex;
+    background-color: white;
+}
+.navbar{
+ margin-left: auto;
+ padding: 2rem 10rem;
+} */
+.piggyimg{
+    margin-top: 30px;
+   text-align: center;
+}
+li{
+    display: inline;
+    padding: 10px 10px;
+    color:  #144499;
+    font-family: sans-serif;
+}
+.create_btn{
+    padding: 10px 20px;
+    border-radius:5px; 
+    border: 1px solid #144499;
+    background-color: white;
+    color: #144499;
+    box-sizing: 1px 5px 5px 5px gray;
+}
+.secure{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.create{
+    font-size: 20px;
+    line-height: 45px;
+    color: #144499;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.welcome{
+    margin-top: -25px;
+    color:#627081;
+    font: 16px circularStd sans-serif;
+}
+.forms{
+   text-align: center;
+}
+.form{
+    width:400px;
+	padding:30px;
+	margin:40px auto;
+	background: #FFF;
+	border-radius: 10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius: 10px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+	-moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+	-webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+    /* padding: 25px 0px; */
+}
+label{
+    color: #627081
+}
+.first{
+    margin-right: 305px;
+}
+.valid{
+    margin-right: 305px;
+}
+.phone{
+    margin-right: 290px;
+}
+.password{
+    margin-right: 259px;
+}
+.refer{
+    margin-right: 105px;
+}
+.how{
+    margin-right: 110px;
+}
+input[type=text], select {
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #e2e8f0;
+    border: 0px solid  #144499;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=email], select {
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #e2e8f0;
+    border: 0px solid  #144499;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=number], select {
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #e2e8f0;
+    border: 0px solid  #144499;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=password], select {
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #e2e8f0;
+    border: 0px solid  #144499;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.free{
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    color: white;
+    background-color: #144499;
+    border: 1px solid  #144499;
+    border-bottom-left-radius: 1px solid red;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+/* .thhr{ 
+     border: 1px dashed #144499; width: 95%; margin: auto; margin-top: 1%;  margin-bottom: 1%;
+     border-top: 1px dashed #05457b; 
+     margin: 10px 0;
+     width: 250px;
+     text-align: center; 
+} */
+.part{
+    text-align: center;
+    margin: 0px 0px;
+    color: white;
+    font-size: 14px;
+    font-family: sans-serif;
+}
